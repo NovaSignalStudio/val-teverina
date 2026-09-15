@@ -1,2 +1,7 @@
-# val-teverina
-Val Teverina — La valle del fiume sacro. Territori, esperienze e itinerari tra Tuscia e Umbria.
+# Val Teverina
+
+Sito statico per GitHub Pages. 41 pagine con mappa interattiva, esperienze e itinerari.
+
+Pubblicazione: branch main, cartella radice. Percorso previsto: /val-teverina/.
+
+Le iscrizioni community non sono attive su questa versione statica.
